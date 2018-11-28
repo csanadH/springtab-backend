@@ -1,0 +1,22 @@
+{
+  "name": "springtab-backend",
+  "version": "1.0.0",
+  "description": "Project for the SpringTab position",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/csanadH/springtab-backend.git"
+  },
+  "author": "Csanád Hegedűs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csanadH/springtab-backend/issues"
+  },
+  "homepage": "https://github.com/csanadH/springtab-backend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
